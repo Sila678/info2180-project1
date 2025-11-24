@@ -183,10 +183,6 @@ header nav a:hover{
     text-align: center;
 }
 
-.newsletter p {
-    max-width: 70%;
-}
-
 .newsletter form{
     margin-top: 20px;
     display: flex;
